@@ -2,10 +2,10 @@
 Final Project for Manual Testing
 ---
 
-Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
+*Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
+Данный проект является выпускной квалификационной работой профессиональной переподготовки в ФГАОУ ВО "НИ ТГУ" по дополнительной профессиональной программе профессиональной переподготовки "Тестировщик цифровых продуктов. QA-инженер".*
 
 <h1>Tasks</h1>
-
 **По результатам проекта сделана презентация с подведением итогов. Название файла «Презентация».**
 
 | No. | File name | Task | Status |
